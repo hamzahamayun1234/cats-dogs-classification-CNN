@@ -1,7 +1,7 @@
 # cats-dogs-classification-CNN
 
 ## Task
-We are focussed on image classification problem. We are given 25000 images of labelled cats vs dogs and we are tasked with classifying the test data - which is 12500 unlabelled images.
+We are focused on image classification problem. We are given 25000 images of labelled cats vs dogs and we are tasked with classifying the test data - which is 12500 unlabelled images.
 
 ## Models Used
 
